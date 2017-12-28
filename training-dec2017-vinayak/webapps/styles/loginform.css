@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+.login_form{
+  height:100%;
+  width:100%;
+  background:grey;
+}
+
+.login_body{
+	 content:"";
+  display:table;
+  width:40%;
+  margin:0 auto;
+}
+
+.login_container_rows{
+  padding-top:0.3rem;
+  width:100%;
+  content:"";
+  display:table;
+  background-color:grey;
+}
+
+
+.login_container_label{
+  float:left;
+  width:40%;
+  text-align:right;
+  color:#fbd10d;
+}
+
+.login_container_picker{
+  margin-left:50%; 
+}
+
+.login_heading{
+color:white;
+text-align:center; 
+width:100%;
+}
+
+.login_header{
+  background:#1d1f20;
+  height:10%;
+  width:100%;
+  content:"";
+  display:table;
+}

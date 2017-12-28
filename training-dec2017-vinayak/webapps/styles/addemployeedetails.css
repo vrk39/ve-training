@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+.addemp{
+  height:100%;
+  width:100%;
+  background:grey;
+}
+
+.addemp_container{
+	 content:"";
+  display:table;
+  width:40%;
+  margin:0 auto;
+}
+
+.addemp_container_rows{
+  padding-top:0.3rem;
+  width:100%;
+  content:"";
+  display:table;
+  background-color:grey;
+}
+
+.addemp_container_label{
+  float:left;
+  width:40%;
+  text-align:right;
+  color:#fbd10d;
+}
+
+.addemp_input_picker{
+  margin-left:50%; 
+}
+
+
+.add-button{
+	float:right;
+  color:white;
+  background-color:blue;
+}
